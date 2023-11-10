@@ -1,5 +1,5 @@
-http://example.com/links/index.html
-http://example.com/categories/index.html
-http://example.com/tags/index.html
-http://example.com/2023/11/09/hello-world/
-http://example.com/
+http://www.sharline.net/posts/16107/
+http://www.sharline.net/links/index.html
+http://www.sharline.net/categories/index.html
+http://www.sharline.net/tags/index.html
+http://www.sharline.net/

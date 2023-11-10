@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/links/index.html</loc>
+    <loc>http://www.sharline.net/posts/16107/</loc>
     
     <lastmod>2023-11-10</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://www.sharline.net/links/index.html</loc>
     
     <lastmod>2023-11-10</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://www.sharline.net/categories/index.html</loc>
     
     <lastmod>2023-11-10</lastmod>
     
@@ -29,9 +29,9 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/11/09/hello-world/</loc>
+    <loc>http://www.sharline.net/tags/index.html</loc>
     
-    <lastmod>2023-11-09</lastmod>
+    <lastmod>2023-11-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -39,7 +39,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://www.sharline.net/</loc>
     <lastmod>2023-11-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
