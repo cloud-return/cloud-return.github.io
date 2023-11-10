@@ -6,7 +6,7 @@
   <link href="http://www.sharline.net/atom.xml" rel="self"/>
   
   <link href="http://www.sharline.net/"/>
-  <updated>2023-11-10T07:38:39.445Z</updated>
+  <updated>2023-11-10T09:04:09.403Z</updated>
   <id>http://www.sharline.net/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>git 操作指令</title>
+    <link href="http://www.sharline.net/posts/0/"/>
+    <id>http://www.sharline.net/posts/0/</id>
+    <published>2023-11-10T09:01:50.968Z</published>
+    <updated>2023-11-10T09:04:09.403Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="git操作指令"><a href="#git操作指令" class="headerlink" title="git操作指令"></a>git操作指令</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">git init</span><br><span class="line">git remote add origin &lt;链接地址&gt;</span><br><span class="line">git pull origin master</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">git <span class="built_in">clone</span> -b 分支名 <span class="string">&#x27;远程仓库的http地址&#x27;</span></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">git <span class="built_in">clone</span> 远程仓库的http地址   //拉取gitee上的项目，以文件夹的形式整个拉取</span><br><span class="line"></span><br><span class="line">git pull origin master   //拉取某个项目下的具体文件，没有文件夹</span><br></pre></td></tr></table></figure><p><img src="C:\Users\helu0\AppData\Roaming\Typora\typora-user-images\image-20231110170140513.png" alt="image-20231110170140513"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;git操作指令&quot;&gt;&lt;a href=&quot;#git操作指令&quot; class=&quot;headerlink&quot; title=&quot;git操作指令&quot;&gt;&lt;/a&gt;git操作指令&lt;/h2&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
